@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\cypress\\integration",
+    "\\cypress\\support",
+    "\\src"
+  ],
+  "SelectedNode": "\\src\\react-app-env.d.ts",
+  "PreviewInSolutionExplorer": false
+}
